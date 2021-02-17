@@ -1,7 +1,7 @@
 
     <footer>
         <div class="container-fluid col-lg-12 d-flex align-items-center">
-            <span class="text-left">© Copyright 2020 | <a href="index.php">MePetStore</a></span>
+            <span class="text-left">© Copyright 2020  ádf | <a href="index.php">MePetStore</a></span>
             <span class="text-right"><img src="./image/payment.png" alt=""></span>
         </div>
     </footer>
